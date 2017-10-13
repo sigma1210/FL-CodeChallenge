@@ -1,0 +1,17 @@
+{
+  "name": "angular-ui-format",
+  "main": "./format.js",
+  "dependencies": {
+    "angular": ">= 1.0.2"
+  },
+  "homepage": "https://github.com/angular-ui/ui-utils",
+  "_release": "20c017850b",
+  "_resolution": {
+    "type": "branch",
+    "branch": "bower-format",
+    "commit": "20c017850b85d0fe0a8cf7640715fe9bf0846d23"
+  },
+  "_source": "https://github.com/angular-ui/ui-utils.git",
+  "_target": "bower-format",
+  "_originalSource": "angular-ui-utils"
+}

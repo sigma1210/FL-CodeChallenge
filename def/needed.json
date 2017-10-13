@@ -1,0 +1,19 @@
+{
+  "lib":[
+    "bower_components/angular/angular.min.js"
+  ],
+  "source":[
+    "./src/*.js",
+    "./src/**/*.js",
+    "./temp/**/*.js"
+  ],
+  "dist":[
+    "./dist/fl.challenge.js"
+  ],
+  "testSupport":[
+    "bower_components/angular-mocks/angular-mocks.js"
+  ],
+  "tests":[
+    "./tests/unit/**/*.js"
+  ]
+}

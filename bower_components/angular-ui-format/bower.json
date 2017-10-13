@@ -1,0 +1,8 @@
+{
+  "name": "angular-ui-format",
+  "version": "",
+  "main": "./format.js",
+  "dependencies": {
+    "angular": ">= 1.0.2"
+  }
+}
